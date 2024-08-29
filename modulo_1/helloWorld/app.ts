@@ -1,3 +1,4 @@
+//Transpilação do arquivo: <Windows> CTRL + SHIFT + B
 let  mensagem: string ='Damyres Maciel';
 console.log(mensagem)
 
