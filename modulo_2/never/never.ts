@@ -31,6 +31,6 @@ const loopInfinito = function loop(){
 
 // ==> Exemplo 04: Diferença entre os tipos: 'never' x 'void'
 const algumaCoisaVoid: void = null;
-const algumaCoisaNever: never = null; //null é para o tipo void  never nunca vai aconetecer, não pode receber nenhum valor
+//const algumaCoisaNever: never = null; //null é para o tipo void  never nunca vai aconetecer, não pode receber nenhum valor
 console.log(algumaCoisaVoid);
-console.log(algumaCoisaNever);
+//console.log(algumaCoisaNever);
