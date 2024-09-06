@@ -7,7 +7,7 @@
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
  */
 //livro
-
+export{}
 // ==> Exemplo 01 - Uso simples de Tuplas em TypeScript
 let pessoa: [string, string, number]
 pessoa = ['Maria', 'Cloud Advocate', 34]

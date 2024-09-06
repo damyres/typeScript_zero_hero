@@ -1,13 +1,5 @@
 "use strict";
-/**
- * arquivo: tupleType.ts
- * descrição: arquivo responsável por ensinar conceitos básicos sobre 'Tipo Tuple'
- * data: 28/03/2021
- * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
- * doc referência: https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple
- * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
- */
-//livro
+Object.defineProperty(exports, "__esModule", { value: true });
 // ==> Exemplo 01 - Uso simples de Tuplas em TypeScript
 let pessoa;
 pessoa = ['Maria', 'Cloud Advocate', 34];
